@@ -102,7 +102,7 @@ button:hover {
 
 @media (max-width: 600px) {
     .form-container {
-        padding: 132px 15px 15px 20px;
+        padding: 150px 15px 15px 20px;
     }
 
     input, select, textarea, button {
